@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sibdev/static/css/main.3f450f78.chunk.css",
+    "main.js": "/sibdev/static/js/main.3aab650f.chunk.js",
+    "main.js.map": "/sibdev/static/js/main.3aab650f.chunk.js.map",
+    "runtime-main.js": "/sibdev/static/js/runtime-main.bf41ef0d.js",
+    "runtime-main.js.map": "/sibdev/static/js/runtime-main.bf41ef0d.js.map",
+    "static/js/2.dc2187bb.chunk.js": "/sibdev/static/js/2.dc2187bb.chunk.js",
+    "static/js/2.dc2187bb.chunk.js.map": "/sibdev/static/js/2.dc2187bb.chunk.js.map",
+    "index.html": "/sibdev/index.html",
+    "precache-manifest.e25474c47e39608578305a1456710c42.js": "/sibdev/precache-manifest.e25474c47e39608578305a1456710c42.js",
+    "service-worker.js": "/sibdev/service-worker.js",
+    "static/css/main.3f450f78.chunk.css.map": "/sibdev/static/css/main.3f450f78.chunk.css.map",
+    "static/js/2.dc2187bb.chunk.js.LICENSE.txt": "/sibdev/static/js/2.dc2187bb.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/sibdev/static/media/eye.150b968e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf41ef0d.js",
+    "static/js/2.dc2187bb.chunk.js",
+    "static/css/main.3f450f78.chunk.css",
+    "static/js/main.3aab650f.chunk.js"
+  ]
+}
